@@ -13,3 +13,11 @@ Two modes of operation are available:
 
 
 This simulation helps in understanding population dynamics, survival strategies, and the impact of environmental constraints through interactive and visual modeling.
+
+<img width="789" height="553" alt="image" src="https://github.com/user-attachments/assets/7351b88e-70c8-4154-8afa-61dfefba3d85" />
+
+<img width="790" height="555" alt="image" src="https://github.com/user-attachments/assets/b20651c6-1bf4-4971-a55b-efad374ab9ef" />
+
+<img width="789" height="553" alt="image" src="https://github.com/user-attachments/assets/08e91bef-03ba-4d90-b6d2-873269d7a1de" />
+
+
