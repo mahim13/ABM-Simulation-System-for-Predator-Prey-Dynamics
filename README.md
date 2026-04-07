@@ -16,6 +16,7 @@ This simulation helps in understanding population dynamics, survival strategies,
 
 <img width="527" height="337" alt="image" src="https://github.com/user-attachments/assets/93548d3b-8418-46a7-87e6-442e6d080d3e" />
 
+<img width="635" height="868" alt="image" src="https://github.com/user-attachments/assets/37aa063b-10ec-4073-bdad-959feba2597b" />
 
 <img width="789" height="553" alt="image" src="https://github.com/user-attachments/assets/7351b88e-70c8-4154-8afa-61dfefba3d85" />
 
