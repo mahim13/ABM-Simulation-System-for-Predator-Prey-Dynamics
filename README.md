@@ -1,4 +1,4 @@
-# ABM-Simulation-System-for-Predator-Prey-Dynamics
+# ABM Simulation System for Predator Prey Dynamics
 
 
 This project focuses on simulating an ecological predator-prey environment using Agent-Based Modeling (ABM). The simulation demonstrates interactions between agents on a 2D grid.
